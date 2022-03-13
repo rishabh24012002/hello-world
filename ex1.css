@@ -55,15 +55,10 @@ margin: 0;
 }
 
 img {
-border-width: 10px;
-border-color: black;
-border-radius: 50px;
 max-width: 50%;
 display: block;
 height: auto;
 margin: 0 auto;
-
-  important!
 }
 
 #img-div {
