@@ -19,6 +19,7 @@ margin: 0;
 h1 {
 font-size: 4rem;
 margin-bottom: 0;
+color: #283ed7;
 }
 
 @media (max-width: 460px) {
